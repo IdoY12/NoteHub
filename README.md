@@ -27,4 +27,4 @@ Just open `index.html` in your browser. That's it!
 
 ---
 
-Nothing fancy — just a tiny learning project. ✍️
+Nothing fancy — just a lightweight project. ✍️
